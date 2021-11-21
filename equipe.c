@@ -15,13 +15,13 @@ int inner_menu_equipe()
     printf("          ---------------------------------  \n");
     printf("                  EQUIPES          \n");
     printf("          ---------------------------------  \n");
-    printf("           | 1 - CADASTRAR EQUIPES        |   \n");
+    printf("           | 1 - CADASTRAR EQUIPES       |   \n");
     printf("           |-----------------------------|   \n");
     printf("           | 2 - LISTAR EQUIPES          |   \n");
     printf("           |-----------------------------|   \n");
     printf("           | 9 - VOLTAR                  |   \n");
     printf("           |-----------------------------|   \n");
-    printf("           | 10 - SAIR                    |   \n");
+    printf("           | 10 - SAIR                   |   \n");
     printf("          ---------------------------------  \n");
 
     scanf("%i", &op);

@@ -21,9 +21,9 @@ int inner_menu_agendar_treino()
     printf("          ---------------------------------  \n");
     printf("                 AGENDAMENTO DE TREINO       \n");
     printf("          ---------------------------------  \n");
-    printf("           | 1 - AGENDAR TREINO        |   \n");
+    printf("           | 1 - AGENDAR TREINO          |   \n");
     printf("           |-----------------------------|   \n");
-    printf("           | 2 - LISTAR TREINO        |   \n");
+    printf("           | 2 - LISTAR TREINO           |   \n");
     printf("           |-----------------------------|   \n");
     printf("           | 9 - VOLTAR                  |   \n");
     printf("           |-----------------------------|   \n");
@@ -49,7 +49,7 @@ int inner_menu_agendar_treino()
             printf("sair");
             abort();
         default:
-        printf("Escolha uma opção valida selecionando um número acima: ");
+        printf("Escolha uma opcao valida selecionando um numero acima: ");
     }
 }
 

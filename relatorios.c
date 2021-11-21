@@ -36,7 +36,7 @@ void escreveBanco(){
     }
 
 
-    arquivo = fopen("bancoMA.txt", "a+");
+    arquivo = fopen("banco/bancoMA.txt", "a+");
     fprintf(arquivo, "%-10s %-10s %s", medalha, pais, nome);
     fclose(arquivo);
 }

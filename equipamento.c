@@ -24,13 +24,13 @@ int inner_menu_equipamento()
     printf("          ---------------------------------  \n");
     printf("                  EQUIPAMENTOS                    \n");
     printf("          ---------------------------------  \n");
-    printf("           | 1 - CADASTRAR EQUIPAMENTOS        |   \n");
+    printf("           | 1 - CADASTRAR EQUIPAMENTOS  |   \n");
     printf("           |-----------------------------|   \n");
-    printf("           | 2 - LISTAR EQUIPAMENTOS          |    \n");
+    printf("           | 2 - LISTAR EQUIPAMENTOS     |    \n");
     printf("           |-----------------------------|   \n");
     printf("           | 9 - VOLTAR                  |   \n");
     printf("           |-----------------------------|   \n");
-    printf("           | 10 - SAIR                    |  \n");
+    printf("           | 10 - SAIR                   |  \n");
     printf("          ---------------------------------  \n");
 
     scanf("%i", &op);

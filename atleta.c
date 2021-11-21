@@ -19,11 +19,11 @@ int inner_menu_atleta()
     printf("          ---------------------------------  \n");
     printf("           | 1 - CADASTRAR ATLETA        |   \n");
     printf("           |-----------------------------|   \n");
-    printf("           | 2 - LISTAR ATLETA          |    \n");
+    printf("           | 2 - LISTAR ATLETA           |    \n");
     printf("           |-----------------------------|   \n");
     printf("           | 9 - VOLTAR                  |   \n");
     printf("           |-----------------------------|   \n");
-    printf("           | 10 - SAIR                    |  \n");
+    printf("           | 10 - SAIR                   |  \n");
     printf("          ---------------------------------  \n");
 
     scanf("%i", &op);

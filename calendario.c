@@ -16,13 +16,13 @@ int inner_menu_calendario()
     printf("          ---------------------------------  \n");
     printf("                  CALENDARIO                    \n");
     printf("          ---------------------------------  \n");
-    printf("           | 1 - CADASTRAR DATA        |   \n");
+    printf("           | 1 - CADASTRAR DATA          |   \n");
     printf("           |-----------------------------|   \n");
-    printf("           | 2 - LISTAR CALENDÁRIO          |    \n");
+    printf("           | 2 - LISTAR CALENDÁRIO       |    \n");
     printf("           |-----------------------------|   \n");
     printf("           | 9 - VOLTAR                  |   \n");
     printf("           |-----------------------------|   \n");
-    printf("           | 10 - SAIR                    |  \n");
+    printf("           | 10 - SAIR                   |  \n");
     printf("          ---------------------------------  \n");
 
     scanf("%i", &op);
